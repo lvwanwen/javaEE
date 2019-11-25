@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbc-test">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdbc-test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
